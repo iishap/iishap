@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isha</h1>
+<h3 align="center">Talks about Web3 and Linux</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iishap&label=Profile%20views&color=0e75b6&style=flat" alt="iishap" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iishap" alt="iishap" /></a> </p>
@@ -13,7 +15,10 @@
 <p align="left">
 <a href="https://twitter.com/ishaparekh018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishaparekh018" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/isha-parekh-57386522a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isha-parekh-57386522a/" height="30" width="40" /></a>
+<a href="https://hashnode.com/@isha018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@isha018" height="30" width="40" /></a>
 <a href="https://medium.com/@ishaparekh018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ishaparekh018" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/21ce087_isha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21ce087_isha" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/isha_parekh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isha_parekh/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
