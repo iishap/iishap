@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/ishaparekh018" target="blank"><img src="https://img.shields.io/twitter/follow/ishaparekh018?logo=twitter&style=for-the-badge" alt="ishaparekh018" /></a> </p>
 
+<a href="https://app.daily.dev/iishap"><img src="https://api.daily.dev/devcards/c1e29a961ebc419e9f3300e1c88c0f7b.png?r=274" width="400" alt="isha Parekh's Dev Card"/></a>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
