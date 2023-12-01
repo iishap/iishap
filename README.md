@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iishap&label=Profile%20views&color=0e75b6&style=flat" alt="iishap" /> </p>
 
-<a href="https://app.daily.dev/iishap"><img src="https://api.daily.dev/devcards/c1e29a961ebc419e9f3300e1c88c0f7b.png?r=274" width="400" alt="isha Parekh's Dev Card"/></a>
+<a href="https://app.daily.dev/iishap"><img src="https://api.daily.dev/devcards/c1e29a961ebc419e9f3300e1c88c0f7b.png?r=79k" width="400" alt="isha Parekh's Dev Card"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iishap" alt="iishap" /></a> </p>
 
