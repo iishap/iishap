@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Isha Parekh</h1>
-<h3 align="center">Talks about Web3 and Linux</h3>
+<h3 align="center">Talks about Web3 and Gaming</h3>
 <h4 align="center">Poet and Writer by passion, Computer enginner by profession</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iishap&label=Profile%20views&color=0e75b6&style=flat" alt="iishap" /> </p>
