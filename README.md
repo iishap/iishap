@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/ishaparekh018" target="blank"><img src="https://img.shields.io/twitter/follow/ishaparekh018?logo=twitter&style=for-the-badge" alt="ishaparekh018" /></a> </p>
 
-- 🔭 I’m currently working on **web3 & gaming**
+-  I’m currently working on **Developer Adoption**
 
-- 🌱 I’m currently learning **3.js**
+-  I’m currently building **Shiphouse.xyz**
 
-- 📝 I regularly write articles on [https://ishaparekh.hashnode.dev/](https://ishaparekh.hashnode.dev/)
+-  I regularly write articles on [https://ishaparekh.hashnode.dev/](https://ishaparekh.hashnode.dev/)
 
-- 💬 Let's Talk **https://calendly.com/parekhisha409/30min**
+-  Let's Talk **https://calendly.com/parekhisha409/30min**
 
-- 📫 How to reach me **ishaparekh018@gmail.com**
+-  How to reach me **ishaparekh018@gmail.com**
 
-- ⚡ Fun fact **I think I'm clumsy**
+-  Fun fact **I think I'm clumsy**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
